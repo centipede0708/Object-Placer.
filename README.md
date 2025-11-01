@@ -88,7 +88,7 @@ Your mission is to **pick, rotate, and place objects** on the truck bed before t
 
 | Category | Details |
 |-----------|----------|
-| **Engine** | Unity / Unreal Engine |
+| **Engine** | Unity, C# |
 | **Perspective** | Third-Person |
 | **Physics** | Rigidbody + Colliders |
 | **Environment** | Static – same map for all levels |
